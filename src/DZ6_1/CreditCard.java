@@ -1,4 +1,6 @@
-//Создать класс CreditCard c полями номер счета, текущая сумма на счету.
+package DZ6_1;
+
+//Создать класс DZ6_1.CreditCard c полями номер счета, текущая сумма на счету.
 public class CreditCard {
     String name;
     double money;
