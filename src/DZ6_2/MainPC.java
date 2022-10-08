@@ -77,7 +77,8 @@ public class MainPC {
                 System.out.println("Указанно не число...");
                 model = 0;
             }
-
+            scm.close();
         } while (model != 0);
     }
+
 }
