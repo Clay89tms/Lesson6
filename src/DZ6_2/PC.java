@@ -26,7 +26,7 @@ public class PC {
     }
 
     public String screenHalf() {
-        if ((ram == null)&&(hdd == null)){
+        if ((ram == null) && (hdd == null)) {
             ramN = hddN = "<нет данных>";
 
         }

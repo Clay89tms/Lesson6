@@ -6,7 +6,6 @@ public class RAM {
     int volume; // Объем памяти
 
 
-
     public RAM() {
     }
 
@@ -14,7 +13,8 @@ public class RAM {
         this.name = name;
         this.volume = volume;
     }
-    public String ramSC(){
-        return "{Производитель: " + name + "; Объем памяти: " + volume+ "Gb}";
+
+    public String ramSC() {
+        return "{Производитель: " + name + "; Объем памяти: " + volume + "Gb}";
     }
 }

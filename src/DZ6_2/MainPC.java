@@ -10,16 +10,16 @@ public class MainPC {
         PC pc = null;
         HDD hdd = new HDD("Samsung", 500, "Внутрь", 3.5);
         RAM ram = new RAM("Kingstone", 32);
-
+        Scanner scm = new Scanner(System.in);
         do {
             System.out.println("\nМодели: \n1)Asus; 2)Dell\n0)Для выхода");
-            Scanner scm = new Scanner(System.in);
+
             System.out.print("Введите Модель: ");
             if (scm.hasNextInt()) {
 
                 model = scm.nextInt();
                 if ((model == 1) || (model == 2)) {
-                    System.out.print("\tСборка: \n\t1) Полная; 2) без DZ6_2.HDD и DZ6_2.RAM\n\tВыбор : ");
+                    System.out.print("\tСборка: \n\t1) Полная; 2) HDD и RAM\n\tВыбор : ");
                 }
 
                 switch (model) {
@@ -77,8 +77,9 @@ public class MainPC {
                 System.out.println("Указанно не число...");
                 model = 0;
             }
-            scm.close();
+
         } while (model != 0);
+        scm.close();
     }
 
 }

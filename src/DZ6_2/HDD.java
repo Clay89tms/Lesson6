@@ -17,6 +17,7 @@ public class HDD {
         this.type = type;
         this.size = size;
     }
+
     public String hddSC() {
         return "{Производитель: " + name + "; Объем памяти: " + volume +
                 "Gb; Установка: " + type + "; Размер: " + size + "\"}";

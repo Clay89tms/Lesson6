@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5761d2b8-ec86-4cfa-b9d0-3f99fac93b9e" name="Changes" comment="ДЗ 6 (1 часть) поправки 1">
+    <list default="true" id="5761d2b8-ec86-4cfa-b9d0-3f99fac93b9e" name="Changes" comment="ДЗ 6 (1 часть) поправки 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DZ6_1/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_1/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DZ6_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZ6_2/HDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_2/HDD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZ6_2/MainPC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_2/MainPC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZ6_2/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_2/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZ6_2/RAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_2/RAM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zadanie" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MainPC">
     <configuration name="Mai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Robot.Mai" />
       <module name="Main" />
@@ -81,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MainPC" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Mai" />
       </list>
     </recent_temporary>
@@ -99,7 +102,7 @@
       <workItem from="1665090120506" duration="132000" />
       <workItem from="1665159095953" duration="1367000" />
       <workItem from="1665216851474" duration="19025000" />
-      <workItem from="1665316100791" duration="300000" />
+      <workItem from="1665316100791" duration="3017000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1665085187865</created>
@@ -143,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665237397380</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ДЗ 6 (1 часть) поправки 2">
+      <created>1665316498234</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665316498234</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +177,7 @@
     <MESSAGE value="ДЗ 6 (1 часть) + Задание" />
     <MESSAGE value="ДЗ 6 (2 часть)" />
     <MESSAGE value="ДЗ 6 (1 часть) поправки 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 6 (1 часть) поправки 1" />
+    <MESSAGE value="ДЗ 6 (1 часть) поправки 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 6 (1 часть) поправки 2" />
   </component>
 </project>
