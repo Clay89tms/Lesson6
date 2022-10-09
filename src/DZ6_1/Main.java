@@ -1,3 +1,4 @@
+
 package DZ6_1;
 
 //Основное задание
@@ -51,5 +52,8 @@ public class Main {
         creditCard2.plus(11);
         creditCard3.minus(400);
 
+        creditCard1.print();
+        creditCard2.print();
+        creditCard3.print();
     }
 }

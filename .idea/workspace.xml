@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5761d2b8-ec86-4cfa-b9d0-3f99fac93b9e" name="Changes" comment="1 Zadanie">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/R/Mai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/R/Robo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/R/Size.java" afterDir="false" />
+    <list default="true" id="5761d2b8-ec86-4cfa-b9d0-3f99fac93b9e" name="Changes" comment="ДЗ 6 (1 часть) поправки 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZ6_1/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_1/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DZ6_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainPC">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Mai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Robot.Mai" />
       <module name="Main" />
@@ -84,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainPC" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainPC" />
         <item itemvalue="Application.Mai" />
       </list>
     </recent_temporary>
@@ -101,7 +98,8 @@
       <workItem from="1665084913469" duration="5142000" />
       <workItem from="1665090120506" duration="132000" />
       <workItem from="1665159095953" duration="1367000" />
-      <workItem from="1665216851474" duration="16417000" />
+      <workItem from="1665216851474" duration="19025000" />
+      <workItem from="1665316100791" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1665085187865</created>
@@ -117,7 +115,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665160246875</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Работа на Уроке 6">
+      <created>1665233980102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665233980102</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ДЗ 6 (1 часть) + Задание">
+      <created>1665234081210</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665234081210</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ДЗ 6 (2 часть)">
+      <created>1665234115978</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665234115978</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ДЗ 6 (1 часть) поправки 1">
+      <created>1665237397380</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665237397380</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +163,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Start" />
     <MESSAGE value="1 Zadanie" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 Zadanie" />
+    <MESSAGE value="Работа на Уроке 6" />
+    <MESSAGE value="ДЗ 6 (1 часть) + Задание" />
+    <MESSAGE value="ДЗ 6 (2 часть)" />
+    <MESSAGE value="ДЗ 6 (1 часть) поправки 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 6 (1 часть) поправки 1" />
   </component>
 </project>

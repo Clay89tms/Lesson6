@@ -15,14 +15,14 @@ public class CreditCard {
     }
 //Добавьте метод, который позволяет начислять сумму на кредитную карточку.
     public void plus(double plus) {
-        double i = this.money + plus;
-        System.out.println("Зачисление Д/С (+" + plus + ") на карту : " + this.name + "\tИтоговая сумма: " + i);
+        this.money = this.money + plus;
+        System.out.println("Зачисление Д/С (+" + plus + ") на карту : " + this.name + "\tИтоговая сумма: " + this.money);
     }
 //Добавьте метод, который позволяет снимать с карточки некоторую сумму.
     public void minus(double minus) {
         if (this.money >= minus) {
-            double i = this.money - minus;
-            System.out.println("Снятие Д/С (-" + minus + ") с карты : " + this.name + "\tИтоговая сумма: " + i);
+            this.money = this.money - minus;
+            System.out.println("Снятие Д/С (-" + minus + ") с карты : " + this.name + "\tИтоговая сумма: " + this.money);
         } else System.out.println("Недопустимо снять такую сумму...");
     }
 
