@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5761d2b8-ec86-4cfa-b9d0-3f99fac93b9e" name="Changes" comment="ДЗ 6 (1 часть) поправки 2">
+    <list default="true" id="5761d2b8-ec86-4cfa-b9d0-3f99fac93b9e" name="Changes" comment="ДЗ 6 (2 часть) поправки 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DZ6_2/HDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_2/HDD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DZ6_2/MainPC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_2/MainPC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DZ6_2/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_2/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DZ6_2/RAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DZ6_2/RAM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +99,7 @@
       <workItem from="1665090120506" duration="132000" />
       <workItem from="1665159095953" duration="1367000" />
       <workItem from="1665216851474" duration="19025000" />
-      <workItem from="1665316100791" duration="3017000" />
+      <workItem from="1665316100791" duration="5042000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <created>1665085187865</created>
@@ -153,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665316498234</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ДЗ 6 (2 часть) поправки 1">
+      <created>1665320097031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665320097031</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +182,7 @@
     <MESSAGE value="ДЗ 6 (2 часть)" />
     <MESSAGE value="ДЗ 6 (1 часть) поправки 1" />
     <MESSAGE value="ДЗ 6 (1 часть) поправки 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 6 (1 часть) поправки 2" />
+    <MESSAGE value="ДЗ 6 (2 часть) поправки 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 6 (2 часть) поправки 1" />
   </component>
 </project>

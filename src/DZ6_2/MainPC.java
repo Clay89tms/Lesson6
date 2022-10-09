@@ -19,7 +19,7 @@ public class MainPC {
 
                 model = scm.nextInt();
                 if ((model == 1) || (model == 2)) {
-                    System.out.print("\tСборка: \n\t1) Полная; 2) HDD и RAM\n\tВыбор : ");
+                    System.out.print("\tСборка: \n\t1) Полная; 2) без HDD и RAM\n\tВыбор : ");
                 }
 
                 switch (model) {

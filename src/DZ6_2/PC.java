@@ -14,8 +14,8 @@ public class PC {
     public PC(int coast, String model) {
         this.coast = coast;
         this.model = model;
-        ram = null;
-        hdd = null;
+        this.ram = null;
+        this.hdd = null;
     }
 
     public PC(int coast, String model, RAM ram, HDD hdd) {
@@ -28,7 +28,6 @@ public class PC {
     public String screenHalf() {
         if ((ram == null) && (hdd == null)) {
             ramN = hddN = "<нет данных>";
-
         }
         return "\t\tЦена: " + coast + "$;\n\t\tМодель: " + model + ";\n\t\tАЗУ: "
                 + ramN + ";\n\t\tВинестер: " + hddN + ".";
